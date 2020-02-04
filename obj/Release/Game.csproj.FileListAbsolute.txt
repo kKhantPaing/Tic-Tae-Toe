@@ -1,0 +1,10 @@
+C:\Users\KKP\source\repos\Game\bin\Release\Game.exe.config
+C:\Users\KKP\source\repos\Game\bin\Release\Game.exe
+C:\Users\KKP\source\repos\Game\bin\Release\Game.pdb
+C:\Users\KKP\source\repos\Game\obj\Release\Game.csprojAssemblyReference.cache
+C:\Users\KKP\source\repos\Game\obj\Release\Game.Form1.resources
+C:\Users\KKP\source\repos\Game\obj\Release\Game.Form2.resources
+C:\Users\KKP\source\repos\Game\obj\Release\Game.Properties.Resources.resources
+C:\Users\KKP\source\repos\Game\obj\Release\Game.csproj.GenerateResource.cache
+C:\Users\KKP\source\repos\Game\obj\Release\Game.exe
+C:\Users\KKP\source\repos\Game\obj\Release\Game.pdb
