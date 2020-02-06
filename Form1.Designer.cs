@@ -255,6 +255,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1181, 649);
+            this.ControlBox = false;
             this.Controls.Add(this.button10);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel7);
@@ -265,9 +266,9 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
             this.panel2.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);

@@ -12,6 +12,7 @@ namespace Game
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            this.Text = "";
             if (Form1.win.ToString().Equals("1"))
             {
                 panel2.BackgroundImage = Properties.Resources.cross;
@@ -22,8 +23,9 @@ namespace Game
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
-            f1.Show();
+            Home h1 = new Home();
+            this.Hide();
+            h1.Show();
             this.Close();
         }
 

@@ -405,6 +405,9 @@ namespace Game
 
         private void button10_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            Home h1 = new Home();
+            h1.Show();
             this.Close();
         }
 
